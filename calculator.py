@@ -7,3 +7,5 @@ class cal:
     
     def main():
         print('main')
+        print('1')
+
